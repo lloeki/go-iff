@@ -1,3 +1,5 @@
 # go-iff
 
 Interchange Format Files for Go
+
+[![Build Status](https://travis-ci.org/lloeki/go-iff.svg?branch=master)](https://travis-ci.org/lloeki/go-iff)
